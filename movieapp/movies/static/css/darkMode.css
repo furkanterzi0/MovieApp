@@ -1,0 +1,50 @@
+body{
+    background-color:#1a1a2e  !important;
+    transition: background-color 2s ease;
+
+}
+p{
+    color:white !important;
+    transition: color 2s ease;
+
+}
+h5,h2,h1{
+    color: white !important;
+    transition: color 2s ease;
+
+}
+#navbar{
+    background-color: #333333 ;
+}
+#movieCard{
+    background-color: #424242;
+    transition: background-color 2s ease;
+
+}
+#accountCard{
+    background-color: #424242;
+    transition: background-color 2s ease;
+
+}
+#categories .list-group-item {
+    color: white;
+    background-color: #424242;
+    transition: background-color 2s ease;
+
+}
+#categories .list-group-item:hover {
+    background-color:gray ;
+    transition: background-color 0.5s ease;
+
+}
+#detailsCard{
+    background-color: #424242;
+    transition: background-color 2s ease;
+}
+label{
+    color:white;
+}
+p{
+    color: white !important;
+}
+
